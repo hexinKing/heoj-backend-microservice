@@ -2,7 +2,7 @@
 
 ### 依赖服务
  注册中心：Nacos
- 微服务网关（shieroj-backend-gateway ，8104端口 ）：Gateway 聚合所有的接口，统一接受处理前端的请求
+ 微服务网关（shieroj-backend-gateway ，8101端口 ）：Gateway 聚合所有的接口，统一接受处理前端的请求
 
 公共模块：
  common 公共模块（shieroj-backend-common）：全局异常处理器、请求响应封装类、公用的工具类等
