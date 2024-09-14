@@ -16,6 +16,7 @@
         <module>hxoj-backend-service-client</module>
         <module>hxoj-backend-question-service</module>
         <module>hxoj-backend-user-service</module>
+        <module>hxoj-backend-file-service</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>
